@@ -17,8 +17,6 @@ NExt version update : Combine world stats and get insights.
 npm i && npm start
 ```
 
-## Contribution
+## Collaboration request
 
-If you're new to contributing to Open Source on Github, [this guide](https://guides.github.com/activities/contributing-to-open-source/) can help you get started. Please check out the [contribution guide](CONTRIBUTING.md) for more details on how issues and pull requests work.
-
-###### This repository is just a small subset of work put together by a much larger pool of voluntary efforts contributed by generous people all around the world. Reach out to us through hello@covid19india.org
+###### If you want to contribute to the cause where the next goal is to combine the global stats and india stats and show a comparative analysis of how we fared before and after lockdown, generate more insights. please reach out to me at santy2008017@gmail.com, happy to collaborate.
