@@ -4,7 +4,7 @@ Enabled Dark theme by default.
 NExt version update : Combine world stats and get insights.
 
 <p align="center">
-<img src="https://github.com/santoshdas1984/covid19india-react/blob/master/minified_graph.JPG" width="100%">
+<img src="https://github.com/santoshdas1984/covid19india-react/blob/master/minified_graph.JPG">
 </p>
 
 <p align="center">
