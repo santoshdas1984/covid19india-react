@@ -8,7 +8,7 @@ NExt version update : Combine world stats and get insights.
 </p>
 
 <p align="center">
-  Here's our data <a href="https://api.covid19india.org">API</a>.
+  Here's the data API that was used for stats <a href="https://api.covid19india.org">API</a>.
 </p>
 
 ## Setup
